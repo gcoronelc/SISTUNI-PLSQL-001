@@ -1,0 +1,6 @@
+https://www.tutorialspoint.com/plsql/plsql_exceptions.htm
+
+https://docs.oracle.com/cd/B10501_01/appdev.920/a96624/07_errs.htm
+
+https://docs.oracle.com/cd/E11882_01/timesten.112/e21639/exceptions.htm#TTPLS199
+
