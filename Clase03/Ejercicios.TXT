@@ -1,0 +1,60 @@
+-- =======================
+-- EJERCICIOS
+-- ========================
+
+
+Ejercicio 1:
+
+Consultar los datos de una cuenta.
+
+Parámetro de Entrada: Cuenta
+
+Reporte:
+- Cuenta 
+- Moneda
+- Cliente
+- Saldo
+- Cantidad de movimientos
+- Nombre de la sucursal
+
+SOLUCIONARON EL EJERCICIO
+
+- RICHARD PUMAPILLO : Falta generar el reporte
+- SANCHEZ
+- QUISPE
+
+
+----------------------------------------------------
+Ejercicio 2:
+----------------------------------------------------
+
+Utilizando la base de datos EUREKA, desarrollar 
+un procedimiento para crear una cuenta.
+
+El analista funcional ha solicitado al programador
+que verifique que el empleado se encuentre activo
+para proceder con el registro.
+
+El procedimiento debe retornar el número de cuenta.
+
+
+
+----------------------------------------------------
+Ejercicio 3:
+----------------------------------------------------
+
+Utilizando la base de datos EUREKA, desarrollar 
+un procedimiento registrar un nuevo empleado.
+
+
+
+----------------------------------------------------
+Ejercicio 4:
+----------------------------------------------------
+
+Utilizando la base de datos EUREKA, desarrollar 
+un procedimiento rotar a un empleado de una 
+sucursal a otra.
+
+
+ 
